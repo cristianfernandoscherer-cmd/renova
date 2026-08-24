@@ -16,3 +16,9 @@ pnpm-debug.log*
 
 # Editor
 .svelte-kit/
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite
+vite.config.ts.timestamp-*
