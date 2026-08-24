@@ -34,7 +34,7 @@
     "eslint-plugin-react-refresh": "^0.4.14",
     "globals": "^15.11.0",
     "jsdom": "^25.0.1",
-    "msw": "^2.5.1",
+    "msw": "^2.15.0",
     "postcss": "^8.4.47",
     "prettier": "^3.3.3",
     "tailwindcss": "^3.4.14",
@@ -43,5 +43,9 @@
     "vite": "^5.4.10",
     "vite-plugin-pwa": "^0.20.5",
     "vitest": "^2.1.4"
+  },
+  "allowScripts": {
+    "esbuild@0.21.5": true,
+    "msw@2.15.0": true
   }
 }
